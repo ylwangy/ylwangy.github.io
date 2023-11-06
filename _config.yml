@@ -28,8 +28,3 @@ gems:
 collections:
   - proc
   - jour
-exclude:
-  - Gemfile
-  - Gemfile.lock
-include:
-  # - keybase.txt
