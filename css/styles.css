@@ -100,8 +100,8 @@ a:hover small {
 }
 
 .wrapper {
-  /* width:860px; */
-  width:1060px;
+  width:860px;
+  /* width:1060px; */
   margin:0 auto;
 }
 
@@ -256,8 +256,8 @@ footer {
     margin:0 0 20px;
   }
 
-/* @media print, screen and (max-width: 960px) { */
-  @media print, screen and (max-width: 1260px) {
+@media print, screen and (max-width: 960px) {
+  /* @media print, screen and (max-width: 1260px) { */
   div.wrapper {
     width:auto;
     margin:0;
