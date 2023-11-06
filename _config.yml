@@ -37,4 +37,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
 include:
-  - keybase.txt
+  # - keybase.txt
