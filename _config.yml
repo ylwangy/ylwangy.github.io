@@ -3,9 +3,9 @@ keywords: Cryptography, Privacy, Information Security, Digital Signatures
 description: Academic Website of ABC
 title: Homepage of ABC
 
-author: ABC
-authorimg: images/dd.png
-authoroccup: Engineering Manager
+# author: ABC
+# authorimg: images/dd.png
+# authoroccup: Engineering Manager
 
 # inst: DFINITY
 # insturl: https://www.dfinity.org
@@ -26,13 +26,8 @@ theme: minima
 gems:
   - jekyll-feed
 collections:
-  - preprints
   - proc
   - jour
-  - articles
-  - theses
-  - deli
-  - talk
 exclude:
   - Gemfile
   - Gemfile.lock
