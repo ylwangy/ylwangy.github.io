@@ -1,6 +1,9 @@
-@article{wang2022lost,
-  title={Lost in Context? On the Sense-wise Variance of Contextualized Word Embeddings},
+@ARTICLE{10333999,
   author={Wang, Yile and Zhang, Yue},
-  journal={arXiv preprint arXiv:2208.09669},
-  year={2022}
-}
+  journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing}, 
+  title={Lost in Context? On the Sense-wise Variance of Contextualized Word Embeddings}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/TASLP.2023.3337643}}
