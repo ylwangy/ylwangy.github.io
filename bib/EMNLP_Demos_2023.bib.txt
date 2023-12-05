@@ -1,0 +1,17 @@
+@inproceedings{wang-etal-2023-yato,
+    title = "{YATO}: Yet Another deep learning based Text analysis Open toolkit",
+    author = "Wang, Zeqiang  and
+      Wang, Yile  and
+      Wu, Jiageng  and
+      Teng, Zhiyang  and
+      Yang, Jie",
+    editor = "Feng, Yansong  and
+      Lefever, Els",
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing: System Demonstrations",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.emnlp-demo.11",
+    pages = "131--139",
+    abstract = "We introduce YATO, an open-source, easy-to-use toolkit for text analysis with deep learning. Different from existing heavily engineered toolkits and platforms, YATO is lightweight and user-friendly for researchers from cross-disciplinary areas. Designed in a hierarchical structure, YATO supports free combinations of three types of widely used features including 1) traditional neural networks (CNN, RNN, etc.); 2) pre-trained language models (BERT, RoBERTa, ELECTRA, etc.); and 3) user-customized neural features via a simple configurable file. Benefiting from the advantages of flexibility and ease of use, YATO can facilitate fast reproduction and refinement of state-of-the-art NLP models, and promote the cross-disciplinary applications of NLP techniques. The code, examples, and documentation are publicly available at https://github.com/jiesutd/YATO. A demo video is also available at https://www.youtube.com/playlist?list=PLJ0mhzMcRuDUlTkzBfAftOqiJRxYTTjXH.",
