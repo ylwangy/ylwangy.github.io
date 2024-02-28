@@ -1,0 +1,6 @@
+@article{wang2024deem,
+  title={DEEM: Dynamic Experienced Expert Modeling for Stance Detection},
+  author={Wang, Xiaolong and Wang, Yile and Cheng, Sijie and Li, Peng and Liu, Yang},
+  journal={arXiv preprint arXiv:2402.15264},
+  year={2024}
+}
