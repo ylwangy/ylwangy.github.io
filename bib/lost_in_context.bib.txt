@@ -1,9 +1,11 @@
 @ARTICLE{10333999,
   author={Wang, Yile and Zhang, Yue},
   journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing}, 
-  title={Lost in Context? On the Sense-wise Variance of Contextualized Word Embeddings}, 
-  year={2023},
-  volume={},
+  title={Lost in Context? On the Sense-Wise Variance of Contextualized Word Embeddings}, 
+  year={2024},
+  volume={32},
   number={},
-  pages={1-12},
+  pages={639-650},
+  keywords={Task analysis;Context modeling;Semantics;Sensitivity;Transformers;Training;Syntactics;Language models;contextualized word embeddings;sense-wise variance;position bias},
   doi={10.1109/TASLP.2023.3337643}}
+
