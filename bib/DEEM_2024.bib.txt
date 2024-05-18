@@ -1,6 +1,22 @@
-@article{wang2024deem,
-  title={DEEM: Dynamic Experienced Expert Modeling for Stance Detection},
-  author={Wang, Xiaolong and Wang, Yile and Cheng, Sijie and Li, Peng and Liu, Yang},
-  journal={arXiv preprint arXiv:2402.15264},
-  year={2024}
+@inproceedings{wang-etal-2024-deem-dynamic,
+    title = "{DEEM}: Dynamic Experienced Expert Modeling for Stance Detection",
+    author = "Wang, Xiaolong  and
+      Wang, Yile  and
+      Cheng, Sijie  and
+      Li, Peng  and
+      Liu, Yang",
+    editor = "Calzolari, Nicoletta  and
+      Kan, Min-Yen  and
+      Hoste, Veronique  and
+      Lenci, Alessandro  and
+      Sakti, Sakriani  and
+      Xue, Nianwen",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italy",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.405",
+    pages = "4530--4541",
+    abstract = "Recent work has made a preliminary attempt to use large language models (LLMs) to solve the stance detection task, showing promising results. However, considering that stance detection usually requires detailed background knowledge, the vanilla reasoning method may neglect the domain knowledge to make a professional and accurate analysis. Thus, there is still room for improvement of LLMs reasoning, especially in leveraging the generation capability of LLMs to simulate specific experts (i.e., multi-agents) to detect the stance. In this paper, different from existing multi-agent works that require detailed descriptions and use fixed experts, we propose a Dynamic Experienced Expert Modeling (DEEM) method which can leverage the generated experienced experts and let LLMs reason in a semi-parametric way, making the experts more generalizable and reliable. Experimental results demonstrate that DEEM consistently achieves the best results on three standard benchmarks, outperforms methods with self-consistency reasoning, and reduces the bias of LLMs.",
 }
