@@ -1,6 +1,0 @@
-@article{zhang2024enhancing,
-  title={Enhancing Multilingual Capabilities of Large Language Models through Self-Distillation from Resource-Rich Languages},
-  author={Zhang, Yuanchi and Wang, Yile and Liu, Zijun and Wang, Shuo and Wang, Xiaolong and Li, Peng and Sun, Maosong and Liu, Yang},
-  journal={arXiv preprint arXiv:2402.12204},
-  year={2024}
-}

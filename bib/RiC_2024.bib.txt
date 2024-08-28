@@ -1,6 +1,0 @@
-@article{wang2024reasoning,
-  title={Reasoning in Conversation: Solving Subjective Tasks through Dialogue Simulation for Large Language Models},
-  author={Wang, Xiaolong and Wang, Yile and Zhang, Yuanchi and Luo, Fuwen and Li, Peng and Sun, Maosong and Liu, Yang},
-  journal={arXiv preprint arXiv:2402.17226},
-  year={2024}
-}
