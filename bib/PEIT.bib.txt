@@ -1,0 +1,6 @@
+@article{lin2024property,
+  title={Property Enhanced Instruction Tuning for Multi-task Molecule Generation with Large Language Models},
+  author={Lin, Xuan and Chen, Long and Wang, Yile and Zeng, Xiangxiang and Yu, Philip S},
+  journal={arXiv preprint arXiv:2412.18084},
+  year={2024}
+}

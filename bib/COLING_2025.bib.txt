@@ -1,0 +1,22 @@
+@inproceedings{wang-etal-2025-leveraging,
+    title = "Leveraging Language-based Representations for Better Solving Symbol-related Problems with Large Language Models",
+    author = "Wang, Yile  and
+      Cheng, Sijie  and
+      Sun, Zixin  and
+      Li, Peng  and
+      Liu, Yang",
+    editor = "Rambow, Owen  and
+      Wanner, Leo  and
+      Apidianaki, Marianna  and
+      Al-Khalifa, Hend  and
+      Eugenio, Barbara Di  and
+      Schockaert, Steven",
+    booktitle = "Proceedings of the 31st International Conference on Computational Linguistics",
+    month = jan,
+    year = "2025",
+    address = "Abu Dhabi, UAE",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.coling-main.372/",
+    pages = "5544--5557",
+    abstract = "Symbols such as numerical sequences, chemical formulas, and table delimiters exist widely, playing important roles in symbol-related tasks such as abstract reasoning, chemical property prediction, and tabular question-answering. Compared to tasks based on natural language expressions, large language models (LLMs) have limitations in understanding and reasoning on symbol-based representations, making it difficult for them to handle symbol-related problems. In this paper, we propose symbol-to-language (S2L), a method that converts symbol-based representations to language-based representations, providing valuable information for language models during reasoning. We found that, for both closed-source and open-source LLMs, the capability to solve symbol-related problems can be largely enhanced by incorporating such language-based representations. For example, by employing S2L for GPT-4, there can be substantial improvements of +21.9{\%} and +9.5{\%} accuracy for 1D-ARC and Dyck language tasks, respectively. There is also a consistent improvement in other six general symbol-related tasks such as table understanding and Tweet analysis. We release the GPT logs in https://github.com/THUNLP-MT/symbol2language."
+}
