@@ -1,0 +1,10 @@
+@ARTICLE{10870153,
+  author={Wang, Yile and Yang, Linyi and Teng, Zhiyang and Zhou, Ming and Zhang, Yue},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Pre-Training a Graph Recurrent Network for Text Understanding}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-14},
+  keywords={Transformers;Computational modeling;Computer architecture;Complexity theory;Attention mechanisms;Encoding;Context modeling;Bidirectional long short term memory;Bidirectional control;Training;Graph recurrent network;pre-trained language model;text understanding;transformer},
+  doi={10.1109/TPAMI.2025.3538221}}
