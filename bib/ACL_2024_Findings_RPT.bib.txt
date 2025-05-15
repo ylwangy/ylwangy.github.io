@@ -1,0 +1,6 @@
+@article{wang2025perspective,
+  title={Perspective Transition of Large Language Models for Solving Subjective Tasks},
+  author={Wang, Xiaolong and Zhang, Yuanchi and Wang, Ziyue and Xu, Yuzhuang and Luo, Fuwen and Wang, Yile and Li, Peng and Liu, Yang},
+  journal={arXiv preprint arXiv:2501.09265},
+  year={2025}
+}
