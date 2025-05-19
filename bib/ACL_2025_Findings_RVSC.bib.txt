@@ -1,0 +1,6 @@
+@article{wang2025ranked,
+  title={Ranked Voting based Self-Consistency of Large Language Models},
+  author={Wang, Weiqin and Wang, Yile and Huang, Hui},
+  journal={arXiv preprint arXiv:2505.10772},
+  year={2025}
+}
