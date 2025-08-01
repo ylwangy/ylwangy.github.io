@@ -1,6 +1,23 @@
-@article{wang2025perspective,
-  title={Perspective Transition of Large Language Models for Solving Subjective Tasks},
-  author={Wang, Xiaolong and Zhang, Yuanchi and Wang, Ziyue and Xu, Yuzhuang and Luo, Fuwen and Wang, Yile and Li, Peng and Liu, Yang},
-  journal={arXiv preprint arXiv:2501.09265},
-  year={2025}
+@inproceedings{wang-etal-2025-perspective,
+    title = "Perspective Transition of Large Language Models for Solving Subjective Tasks",
+    author = "Wang, Xiaolong  and
+      Zhang, Yuanchi  and
+      Wang, Ziyue  and
+      Xu, Yuzhuang  and
+      Luo, Fuwen  and
+      Wang, Yile  and
+      Li, Peng  and
+      Liu, Yang",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2025",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-acl.502/",
+    pages = "9686--9704",
+    ISBN = "979-8-89176-256-5"
 }

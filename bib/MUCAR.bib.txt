@@ -1,0 +1,6 @@
+@article{wang2025mucar,
+  title={MUCAR: Benchmarking Multilingual Cross-Modal Ambiguity Resolution for Multimodal Large Language Models},
+  author={Wang, Xiaolong and Kang, Zhaolu and Zhai, Wangyuxuan and Lou, Xinyue and Lai, Yunghwei and Wang, Ziyue and Wang, Yawen and Huang, Kaiyu and Wang, Yile and Li, Peng and others},
+  journal={arXiv preprint arXiv:2506.17046},
+  year={2025}
+}

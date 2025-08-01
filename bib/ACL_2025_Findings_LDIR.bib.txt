@@ -1,6 +1,18 @@
-@article{wang2025ldir,
-  title={LDIR: Low-Dimensional Dense and Interpretable Text Embeddings with Relative Representations},
-  author={Wang, Yile and Shen, Zhanyu and Huang, Hui},
-  journal={arXiv preprint arXiv:2505.10354},
-  year={2025}
+@inproceedings{wang-etal-2025-ldir,
+    title = "{LDIR}: Low-Dimensional Dense and Interpretable Text Embeddings with Relative Representations",
+    author = "Wang, Yile  and
+      Shen, Zhanyu  and
+      Huang, Hui",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2025",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-acl.743/",
+    pages = "14397--14409",
+    ISBN = "979-8-89176-256-5"
 }
