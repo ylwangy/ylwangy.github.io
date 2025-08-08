@@ -1,4 +1,4 @@
-@article{wang2025mucar,
+@article{lin2025attrilens,
   title={AttriLens-Mol: Attribute Guided Reinforcement Learning for Molecular Property Prediction with Large Language Models},
   author={Lin, Xuan and Chen, Long and Wang, Yile},
   journal={arXiv preprint arXiv:2508.04748},
