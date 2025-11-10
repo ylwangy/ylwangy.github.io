@@ -1,6 +1,28 @@
-@article{wang2025mucar,
-  title={MUCAR: Benchmarking Multilingual Cross-Modal Ambiguity Resolution for Multimodal Large Language Models},
-  author={Wang, Xiaolong and Kang, Zhaolu and Zhai, Wangyuxuan and Lou, Xinyue and Lai, Yunghwei and Wang, Ziyue and Wang, Yawen and Huang, Kaiyu and Wang, Yile and Li, Peng and others},
-  journal={arXiv preprint arXiv:2506.17046},
-  year={2025}
+@inproceedings{wang-etal-2025-mucar,
+    title = "{MUCAR}: Benchmarking Multilingual Cross-Modal Ambiguity Resolution for Multimodal Large Language Models",
+    author = "Wang, Xiaolong  and
+      Kang, Zhaolu  and
+      Zhai, Wangyuxuan  and
+      Lou, Xinyue  and
+      Lai, Yunghwei  and
+      Wang, Ziyue  and
+      Wang, Yawen  and
+      Huang, Kaiyu  and
+      Wang, Yile  and
+      Li, Peng  and
+      Liu, Yang",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-main.760/",
+    doi = "10.18653/v1/2025.emnlp-main.760",
+    pages = "15037--15059",
+    ISBN = "979-8-89176-332-6",
+    abstract = "Multimodal Large Language Models (MLLMs) have demonstrated significant advances across numerous vision-language tasks. Due to their strong performance in image-text alignment, MLLMs can effectively understand image-text pairs with clear meanings. However, effectively resolving the inherent ambiguities in natural language and visual contexts remains challenging. Existing multimodal benchmarks typically overlook linguistic and visual ambiguities, relying mainly on unimodal context for disambiguation and thus failing to exploit the mutual clarification potential between modalities. To bridge this gap, we introduce MUCAR, a novel and challenging benchmark designed explicitly for evaluating multimodal ambiguity resolution across multilingual and cross-modal scenarios. MUCAR includes: (1) a multilingual dataset where ambiguous textual expressions are uniquely resolved by corresponding visual contexts, and (2) a dual-ambiguity dataset that systematically pairs ambiguous images with ambiguous textual contexts, with each combination carefully constructed to yield a single, clear interpretation through mutual disambiguation. Extensive evaluations involving 19 state-of-the-art multimodal models{---}encompassing both open-source and proprietary architectures{---}reveal substantial gaps compared to human-level performance, highlighting the need for future research into more sophisticated cross-modal ambiguity comprehension methods, further pushing the boundaries of multimodal reasoning."
 }
