@@ -1,0 +1,6 @@
+@article{zhan2026assessmentgenerativenamedentity,
+  title={Assessment of Generative Named Entity Recognition in the Era of Large Language Models},
+  author={Zhan, Qi and Wang, Yile and Chen, Kehao and Huang, Hui},
+  journal={arXiv preprint arXiv:2601.17898},
+  year={2026}
+}
