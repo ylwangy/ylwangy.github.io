@@ -1,0 +1,6 @@
+@article{chen2026sempa,
+  title={SemPA: Improving Sentence Embeddings of Large Language Models through Semantic Preference Alignment},
+  author={Chen, Ziyang and Huang, Zhenxuan and Wang, Yile and Wang, Weiqin and Yin, Lu and Huang, Hui},
+  journal={arXiv preprint arXiv:2601.05075},
+  year={2026}
+}
