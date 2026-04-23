@@ -1,0 +1,6 @@
+@article{zheng2026evaluating,
+  title={Evaluating Memory Capability in Continuous Lifelog Scenario},
+  author={Zheng, Jianjie and Liu, Zhichen and Shen, Zhanyu and Qu, Jingxiang and Chen, Guanhua and Wang, Yile and Xu, Yang and Liu, Yang and Cheng, Sijie},
+  journal={arXiv preprint arXiv:2604.11182},
+  year={2026}
+}

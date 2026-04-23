@@ -1,0 +1,6 @@
+@article{shen2026anchormem,
+  title={AnchorMem: Anchored Facts with Associative Contexts for Building Memory in Large Language Models},
+  author={Shen, Zhanyu and Cheng, Sijie and Guo, Zhicheng and Wang, Weiqin and Wang, Yile and Huang, Hui},
+  journal={arXiv preprint arXiv:2604.17377},
+  year={2026}
+}

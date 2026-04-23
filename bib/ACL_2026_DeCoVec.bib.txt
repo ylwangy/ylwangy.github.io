@@ -1,0 +1,6 @@
+@article{li2026decovec,
+  title={DeCoVec: Building Decoding Space based Task Vector for Large Language Models via In-Context Learning},
+  author={Li, Feiyang and Wang, Yile},
+  journal={arXiv preprint arXiv:2604.11129},
+  year={2026}
+}
