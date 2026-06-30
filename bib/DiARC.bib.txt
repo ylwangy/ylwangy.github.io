@@ -1,0 +1,6 @@
+@article{yang2026diarc,
+  title={DiARC: Distinguishing Positive and Negative Samples Helps Improving ARC-like Reasoning Ability of Large Language Models},
+  author={Yang, Yuxuan and Li, Feiyang and Wang, Yile},
+  journal={arXiv preprint arXiv:2606.26530},
+  year={2026}
+}
