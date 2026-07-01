@@ -1,6 +1,17 @@
-@article{li2026decovec,
-  title={DeCoVec: Building Decoding Space based Task Vector for Large Language Models via In-Context Learning},
-  author={Li, Feiyang and Wang, Yile},
-  journal={arXiv preprint arXiv:2604.11129},
-  year={2026}
+@inproceedings{li-wang-2026-decovec,
+    title = "{D}e{C}o{V}ec: Building Decoding Space based Task Vector for Large Language Models via In-Context Learning",
+    author = "Li, Feiyang  and
+      Wang, Yile",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {ACL} 2026",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-acl.953/",
+    pages = "19096--19111",
+    ISBN = "979-8-89176-395-1"
 }

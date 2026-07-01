@@ -1,6 +1,21 @@
-@article{chen2026sempa,
-  title={SemPA: Improving Sentence Embeddings of Large Language Models through Semantic Preference Alignment},
-  author={Chen, Ziyang and Huang, Zhenxuan and Wang, Yile and Wang, Weiqin and Yin, Lu and Huang, Hui},
-  journal={arXiv preprint arXiv:2601.05075},
-  year={2026}
+@inproceedings{chen-etal-2026-sempa,
+    title = "{S}em{PA}: Improving Sentence Embeddings of Large Language Models through Semantic Preference Alignment",
+    author = "Chen, Ziyang  and
+      Huang, Zhenxuan  and
+      Wang, Yile  and
+      Wang, Weiqin  and
+      Yin, Lu  and
+      Huang, Hui",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {ACL} 2026",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-acl.1858/",
+    pages = "37299--37312",
+    ISBN = "979-8-89176-395-1"
 }

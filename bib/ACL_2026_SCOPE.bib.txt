@@ -1,6 +1,19 @@
-@article{wang2025beyond,
-  title={Beyond Majority Voting: Towards Fine-grained and More Reliable Reward Signal for Test-Time Reinforcement Learning},
-  author={Wang, Weiqin and Wang, Yile and Chen, Kehao and Huang, Hui},
-  journal={arXiv preprint arXiv:2512.15146},
-  year={2025}
+@inproceedings{wang-etal-2026-beyond-majority,
+    title = "Beyond Majority Voting: Towards Fine-grained and More Reliable Reward Signal for Test-Time Reinforcement Learning",
+    author = "Wang, Weiqin  and
+      Wang, Yile  and
+      Chen, Kehao  and
+      Huang, Hui",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Proceedings of the 64th Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.acl-long.1727/",
+    pages = "37251--37265",
+    ISBN = "979-8-89176-390-6"
 }

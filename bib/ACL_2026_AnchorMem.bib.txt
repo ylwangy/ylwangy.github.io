@@ -1,6 +1,21 @@
-@article{shen2026anchormem,
-  title={AnchorMem: Anchored Facts with Associative Contexts for Building Memory in Large Language Models},
-  author={Shen, Zhanyu and Cheng, Sijie and Guo, Zhicheng and Wang, Weiqin and Wang, Yile and Huang, Hui},
-  journal={arXiv preprint arXiv:2604.17377},
-  year={2026}
+@inproceedings{shen-etal-2026-anchormem,
+    title = "{A}nchor{M}em: Anchored Facts with Associative Contexts for Building Memory in Large Language Models",
+    author = "Shen, Zhanyu  and
+      Cheng, Sijie  and
+      Guo, Zhicheng  and
+      Wang, Weiqin  and
+      Wang, Yile  and
+      Huang, Hui",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {ACL} 2026",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-acl.1736/",
+    pages = "34784--34798",
+    ISBN = "979-8-89176-395-1"
 }
