@@ -1,0 +1,14 @@
+@inproceedings{ijcai2026p314,
+  title     = {Property Enhanced Instruction Tuning for Multi-Task Molecule Generation with Large Language Models},
+  author    = {Lin, Xuan and Chen, Long and Wang, Yile and Chen, Yangyang and Zeng, Xiangxiang},
+  booktitle = {Proceedings of the Thirty-Fifth International Joint Conference on
+               Artificial Intelligence, {IJCAI-26}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Diego Calvanese},
+  pages     = {2825--2833},
+  year      = {2026},
+  month     = {8},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2026/314},
+  url       = {https://doi.org/10.24963/ijcai.2026/314},
+}
