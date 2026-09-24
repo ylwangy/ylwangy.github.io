@@ -1,6 +1,6 @@
 @article{jiang2026exact,
   title={Exact Feedback Is Not Control: Evaluating Text-based Closed-Loop Revision in LLMs},
   author={Jiang, Haitong and Liu, Chunlin and Wang, Yile and Feng, Yuhong},
-  journal={arXiv preprint arXiv:2606.26530},
+  journal={arXiv preprint arXiv:2609.28150},
   year={2026}
 }
