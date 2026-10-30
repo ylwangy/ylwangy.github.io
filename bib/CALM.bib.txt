@@ -1,0 +1,6 @@
+@article{liu2026calm,
+  title={CALM: Consistency-Aware Logit Masking in Decoding Space for Mitigating Overthinking of Large Reasoning Models},
+  author={Liu, Shengjing and Li, Feiyang and Yang, Yuxuan and Wang, Yile and Huang, Hui},
+  journal={arXiv preprint arXiv:2610.25908},
+  year={2026}
+}
